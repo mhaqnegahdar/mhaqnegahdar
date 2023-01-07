@@ -1,4 +1,4 @@
-![Header](img/maxjn-header.png)
+![Header](GitHub-Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxjn&label=Profile%20views&color=0e75b6&style=flat" alt="maxjn" /> </p>
 
