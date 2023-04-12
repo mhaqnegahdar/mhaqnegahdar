@@ -10,15 +10,22 @@
 <p align="left">
 
 ---
+<p align="left">
+Hi I am Muhammad Haghnegahdar(Maxjn), a WordPress & FrontEnd developer.
+</p>
+<p align="left">
+ I like to learn when I have some free time for myself. I have a particular sensitivity to standard and clean
+coding.
+</p>
 
-I first started C# as a hobby, then I fell in love with solving problems using codes and it all got started...
+My main services are:
+- 1- Creating Custom WordPress Themes
+- 2- Coding Fron-end
 
-I decided to learn everything there is, and I did. I learned a little bit of everything ;) Web, Windows, Mobile, Front, Back, even Network, OS, and Computer Science... After becoming a jack of all trades & master of none, I finally found my interest in web development and became a master of one.
+Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
 
-Half a year ago I started my job as a freelancer and started doing small projects as I was learning and growing my skills. I'm still learning and this is an endless process in web design and web development endless world. Despite the fact now I have a proven history of strong ethics and passion for web development and have the confidence that there is no problem big enough I can't tackle or learn to tackle.
-
-Now my passion is developing a pretty unique and accessible website that helps your business shine and grow. That's why permanent self-study and learning the most current best practices in my job are my high-level priorities. As you should have found out by now, I'm a lover and a developer. :)
-
+Best Regards,
+Muhammad (Maxjn)
 </p>
 <!--*Contacts -->
 <h3 align="center">Connect with me:</h3>
@@ -32,6 +39,6 @@ Now my passion is developing a pretty unique and accessible website that helps y
 <h3 align="center">My Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,wordpress,mysql,php,linux,cs,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,wordpress,php,cs,git,docker" />
   </a>
 </p>
