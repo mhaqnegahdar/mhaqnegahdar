@@ -1,7 +1,7 @@
 
 <p align="left">
 <!--*My story & My passion -->
-<h3 align="center">My story & My passion:</h3>
+<h3 align="left">My story & My passion:</h3>
 <p align="left">
 
 ---
@@ -27,16 +27,16 @@ Best Regards,
 <b>Muhammad (Maxjn)</b>
 </p>
 <!--*Contacts -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
     <a href="https://www.linkedin.com/in/maxjn/" target="blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
 
 <!--*Skills -->
-<h3 align="center">My Skills:</h3>
-<p align="center">
+<h3 align="left">My Skills:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,wordpress,react,git,docker" />
   </a>
