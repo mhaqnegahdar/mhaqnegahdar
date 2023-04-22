@@ -6,7 +6,7 @@
 
 ---
 <p align="left">
-Im **Muhammad** **Haghnegahdar** (Maxjn)! 😃
+Im <b>Muhammad Haghnegahdar</b> (Maxjn)! 😃
 
 Im a **Wordpress** & **Frontend** developer. ... 😉
 
@@ -24,7 +24,7 @@ My main **services** are:
 Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
 
 Best Regards,
-Muhammad (Maxjn)
+<b>Muhammad (Maxjn)</b>
 </p>
 <!--*Contacts -->
 <h3 align="center">Connect with me:</h3>
