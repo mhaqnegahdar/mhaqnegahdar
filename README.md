@@ -22,7 +22,8 @@ My main **services** are:
 Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
 
 Best Regards,
-<b>Muhammad (Maxjn)</b>
+
+<i>Muhammad (Maxjn)</i>
 </p>
 <!--*Contacts -->
 <h3 align="left">Connect with me:</h3>
