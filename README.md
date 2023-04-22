@@ -6,14 +6,14 @@
 
 ---
 <p align="left">
-Im **Muhammad Haghnegahdar** (Maxjn)! 😃
+Im **Muhammad** **Haghnegahdar** (Maxjn)! 😃
 
 Im a **Wordpress** & **Frontend** developer. ... 😉
 
  I like to learn when I have some free time for myself.. ❤️
 </p>
 <p align="left">
-I have a particular sensitivity to **standard** and **clean**
+ I have a particular sensitivity to <b>standard</b> and <b>clean</b>
 coding.
 </p>
 
