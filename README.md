@@ -6,9 +6,9 @@
 
 ---
 <p align="left">
-Im <b>Muhammad Haghnegahdar</b> (Maxjn)! 😃
+I'm <b>Muhammad Haghnegahdar</b> (Maxjn)! 😃
 
-Im a **Wordpress** & **Frontend** developer. ... 😉
+I'm a **Wordpress** & **Frontend** developer. ... 😉
 
  I like to learn when I have some free time for myself.. ❤️
 </p>
