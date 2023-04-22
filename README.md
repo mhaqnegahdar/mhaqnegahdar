@@ -1,12 +1,10 @@
 
 <p align="left">
-<!--*My story & My passion -->
-<h3 align="left">My story & My passion:</h3>
 <p align="left">
-
----
+#### Hello Dear 👋
 <p align="left">
-I'm <b>Muhammad Haghnegahdar</b> (Maxjn)! 😃
+ 
+I'm <i>Muhammad Haghnegahdar</i> (Maxjn)! 😃
 
 I'm a **Wordpress** & **Frontend** developer. ... 😉
 
