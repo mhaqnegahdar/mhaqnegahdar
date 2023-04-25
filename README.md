@@ -15,9 +15,8 @@ I'm a **Wordpress** & **Frontend** developer. ... 😉
 coding.
 </p>
 
-My main **services** are:
-- 1- Creating Custom WordPress Themes
-- 2- Coding Fron-end
+My main **service** is:
+- Front-end Web Development
 
 Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
 
