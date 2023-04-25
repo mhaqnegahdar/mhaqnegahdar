@@ -6,7 +6,7 @@
  
 I'm <i>Muhammad Haghnegahdar</i> (Maxjn)! 😃
 
-I'm a **Wordpress** & **Frontend** developer. ... 😉
+I'm a **Front-end** developer. ... 😉
 
  I like to learn when I have some free time for myself.. ❤️
 </p>
