@@ -27,8 +27,11 @@ Best Regards,
 <!--*Contacts -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/maxjn/" target="blank">
+    <a href="https://www.linkedin.com/in/maxjn/" target="blank" alt="Linkdin">
         <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+ <a href="https://maxjn-portfolio-first.pages.dev" target="blank" alt="Portfolio Website">
+        <img src="https://skillicons.dev/icons?i=cloudflare" />
     </a>
 </p>
 
