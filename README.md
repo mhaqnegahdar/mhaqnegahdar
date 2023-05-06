@@ -4,7 +4,7 @@
  <h3 align="left">Hello Dear 👋</h3>
 <p align="left">
  
-I'm <i>Muhammad Haghnegahdar</i> (Maxjn)! 😃
+I'm <i>Mohamad Haqnegahdar</i> (Maxjn)! 😃
 
 I'm a **Front-end** developer. ... 😉
 
