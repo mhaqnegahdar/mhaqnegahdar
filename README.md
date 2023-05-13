@@ -39,6 +39,6 @@ Best Regards,
 <h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,wordpress,react,git,docker" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,mongodb,git,docker" />
   </a>
 </p>
