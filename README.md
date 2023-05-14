@@ -16,7 +16,7 @@ coding.
 </p>
 
 My main **services** are:
-- Building stuning porfolio websites
+- Building stunning portfolio websites
 - Front-end Web Development
 
 
