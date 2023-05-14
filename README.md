@@ -6,7 +6,7 @@
  
 I'm <i>Mohamad Haqnegahdar</i> (Maxjn)! 😃
 
-I'm a **Front-end** developer. ... 😉
+I'm a **MERN stack** developer. ... 😉
 
  I like to learn when I have some free time for myself.. ❤️
 </p>
@@ -15,14 +15,16 @@ I'm a **Front-end** developer. ... 😉
 coding.
 </p>
 
-My main **service** is:
+My main **services** are:
+- Building stuning porfolio websites
 - Front-end Web Development
+
 
 Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
 
 Best Regards,
 
-<i>Muhammad (Maxjn)</i>
+<i>Mohammad (Maxjn)</i>
 </p>
 <!--*Contacts -->
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +41,6 @@ Best Regards,
 <h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,redux,tailwind,sass,git,docker" />
   </a>
 </p>
