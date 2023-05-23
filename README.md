@@ -6,7 +6,7 @@
  
 I'm <i>Mohamad Haqnegahdar</i> (Maxjn)! 😃
 
-I'm a **MERN stack** developer. ... 😉
+I'm a **Nextjs** developer. ... 😉
 
  I like to learn when I have some free time for myself.. ❤️
 </p>
