@@ -6,11 +6,9 @@
  
 I'm <i>Mohamad Haqnegahdar</i> , aka Maxjn! 😃
 
-I specialize in **MERN** & **Nextjs** full-stack development and always strive for *clean coding practices*. 😉
+I specialize in **MERN** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. 😉
 
- I like to learn when I have some free time for myself.. ❤️
-
- My services include building *stunning* & *responsive to user needs* web applications.
+ **My services** include building *stunning* & *responsive to user needs* web applications.
 
 Check out my work on GitHub or my portfolio website!
 Let's chat about how we can make your products stand out from the rest!
@@ -33,6 +31,6 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,redux,tailwind,sass,git,docker" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,ts,redux,tailwind,sass,git,docker" />
   </a>
 </p>
