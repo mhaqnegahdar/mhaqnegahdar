@@ -1,30 +1,22 @@
 
 <p align="left">
 <p align="left">
- <h3 align="left">Hello Dear 👋</h3>
+ <h3 align="left">Hey there! 👋</h3>
 <p align="left">
  
-I'm <i>Mohamad Haqnegahdar</i> (Maxjn)! 😃
+I'm <i>Mohamad Haqnegahdar</i> , aka Maxjn! 😃
 
-I'm a **Nextjs** developer. ... 😉
+I specialize in **MERN** & **Nextjs** full-stack development and always strive for *clean coding practices*. 😉
 
  I like to learn when I have some free time for myself.. ❤️
-</p>
-<p align="left">
- I have a particular sensitivity to <b>standard</b> and <b>clean</b>
-coding.
-</p>
 
-My main **services** are:
-- Building stunning portfolio websites
-- Front-end Web Development
+ My services include building *stunning* & *responsive to user needs* web applications.
 
+Check out my work on GitHub or my portfolio website!
+Let's chat about how we can make your products stand out from the rest!
 
-Let's have a chat and discuss more about how I could make your products and projects stand out from competitors!
+*Best regards, Mohamad Haqnegahdar*
 
-Best Regards,
-
-<i>Mohammad (Maxjn)</i>
 </p>
 <!--*Contacts -->
 <h3 align="left">Connect with me:</h3>
