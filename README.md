@@ -19,11 +19,11 @@ Let's chat about how we can make your products stand out from the rest!
 <!--*Contacts -->
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/maxjn/" target="blank" alt="Linkdin">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
+    <a href="https://www.linkedin.com/in/maxjn/" target="blank" alt="Linkdin" >
+        <img height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a> 
  <a mailto="mohamad.haqnegahdar@gmail.com" target="blank" alt="Gmail">
-        <img src="https://skillicons.dev/icons?i=email" />
+        <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
 </p>
 
@@ -31,8 +31,7 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">My Theck Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,prisma" /></br>
-    <img src="https://skillicons.dev/icons?i=ts,redux,jest,git,docker" /></br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass" /></br>
+    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,prisma,ts" /></br>
+    <img height="40" src="https://skillicons.dev/icons?i=redux,tailwind,sass,jest,git,docker" /></br>
   </a>
 </p>
