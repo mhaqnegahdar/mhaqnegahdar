@@ -8,7 +8,7 @@ I'm <i>Mohamad Haqnegahdar</i> , aka Maxjn! <img height="30" src="https://em-con
 
 I specialize in **MERN** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/winking-face_1f609.png"/>
 
- **My services** include building *performant* & *responsive to user needs* web applications.
+ **My services** include building *efficient * & *responsive to user needs* web applications.
 
 Check out my work on GitHub or my [Portfolio website](https://maxjn-portfolio-first.pages.dev/)!
 Let's chat about how we can make your products stand out from the rest!
