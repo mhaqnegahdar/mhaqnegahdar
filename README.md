@@ -22,7 +22,7 @@ Let's chat about how we can make your products stand out from the rest!
     <a href="https://www.linkedin.com/in/maxjn/" target="blank" alt="Linkdin" >
         <img height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a> 
- <a mailto="mohamad.haqnegahdar@gmail.com" target="blank" alt="Gmail">
+ <a href="mailto:mohamad.haqnegahdar@gmail.com" target="blank" alt="Gmail">
         <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
 </p>
