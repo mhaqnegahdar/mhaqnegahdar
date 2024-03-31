@@ -4,7 +4,7 @@
  <h3 align="left">Hey there <img height="40" src="https://em-content.zobj.net/source/microsoft-teams/363/raising-hands_light-skin-tone_1f64c-1f3fb_1f3fb.png" /> !</h3>
 <p align="left">
  
-I'm <i>Mohamad Haqnegahdar</i> , aka Maxjn! <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/grinning-face_1f600.png"/>
+I'm <i>Mohamad Haqnegahdar</i>, a developer with your Profit in mind! <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/grinning-face_1f600.png"/>
 
 I specialize in **MERN** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/winking-face_1f609.png"/>
 
