@@ -6,7 +6,7 @@
  
 I'm <i>Mohamad Haqnegahdar</i>, a developer with your Profit in mind! <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/grinning-face_1f600.png"/>
 
-I specialize in **MERN** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/winking-face_1f609.png"/>
+I specialize in **Nestjs** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/winking-face_1f609.png"/>
 
  **My services** include building *efficient* & *responsive to user needs* web applications.
 
@@ -31,7 +31,7 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">My Theck Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,prisma,ts" /></br>
+    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,mongodb,prisma,ts" /></br>
     <img height="40" src="https://skillicons.dev/icons?i=redux,tailwind,sass,jest,git,docker" /></br>
   </a>
 </p>
