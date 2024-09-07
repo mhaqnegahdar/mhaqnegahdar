@@ -1,12 +1,12 @@
 
 <p align="left">
 <p align="left">
- <h3 align="left">Hey there <img height="40" src="https://em-content.zobj.net/source/microsoft-teams/363/raising-hands_light-skin-tone_1f64c-1f3fb_1f3fb.png" /> !</h3>
+ <h3 align="left">Hey there!</h3>
 <p align="left">
  
-I'm <i>Mohamad Haqnegahdar</i>, a developer with your Profit in mind! <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/grinning-face_1f600.png"/>
+I'm <i>Mohamad Haqnegahdar</i>, a javascript developer with your **Profit** in mind! 
 
-I specialize in **Nestjs** & **Nextjs** full-stack development and always strive for _*clean coding practices*_. <img height="30" src="https://em-content.zobj.net/source/microsoft-teams/363/winking-face_1f609.png"/>
+I specialize in **Nestjs** & **Nextjs** full-stack development and always strive for _*clean coding practices*_.
 
  **My services** include building *efficient* & *responsive to user needs* web applications.
 
@@ -19,7 +19,7 @@ Let's chat about how we can make your products stand out from the rest!
 <!--*Contacts -->
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/maxjn/" target="blank" alt="Linkdin" >
+    <a href="https://www.linkedin.com/in/mhaqnegahdar/" target="blank" alt="Linkdin" >
         <img height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a> 
  <a href="mailto:mohamad.haqnegahdar@gmail.com" target="blank" alt="Gmail">
