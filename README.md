@@ -1,10 +1,5 @@
 
-<p align="left">
-<p align="left">
- <h3 align="left">Hey there!</h3>
-<p align="left">
- 
-I'm <i>Mohamad Haqnegahdar</i>, a full-stack javascript developer with your **Profit** in mind! 
+A full-stack javascript developer with your **Profit** in mind! 
 
 My **Objective** is to help facilitate the development process and increase users’ satisfaction regarding your system. I specialize in **Nestjs** & **Nextjs** frameworks and always strive for clean coding practices. 
 
