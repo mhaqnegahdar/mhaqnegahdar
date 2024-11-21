@@ -4,11 +4,11 @@
  <h3 align="left">Hey there!</h3>
 <p align="left">
  
-I'm <i>Mohamad Haqnegahdar</i>, a javascript developer with your **Profit** in mind! 
+I'm <i>Mohamad Haqnegahdar</i>, a full-stack javascript developer with your **Profit** in mind! 
 
-I specialize in **Nestjs** & **Nextjs** full-stack development and always strive for _*clean coding practices*_.
+My objective is to help facilitate the development process and increase users’ satisfaction regarding your system. I specialize in **Nestjs** & **Nextjs** frameworks and always strive for clean coding practices. 
 
- **My services** include building *efficient* & *responsive to user needs* web applications.
+**My services** include building *efficient* & *responsive to user needs* web applications.
 
 Check out my work on GitHub or my [Portfolio website](https://maxjn-portfolio-first.pages.dev/)!
 Let's chat about how we can make your products stand out from the rest!
