@@ -31,6 +31,7 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">My Theck Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,prisma,ts" /></br>
     <img height="40" src="https://skillicons.dev/icons?i=redux,tailwind,sass,jest,git,docker" /></br>
   </a>
 </p>
