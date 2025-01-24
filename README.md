@@ -10,7 +10,7 @@ My services include:
 - Implementing new strategies to boost the quality and speed of your services, leading to increased customer satisfaction.
 
 
-Check out my work on GitHub or my [Portfolio website](https://maxjn-portfolio-first.pages.dev/)!
+Check out my work on GitHub or my [Portfolio website](https://mhaqnegahdar.site/)!
 Let's chat about how we can make your products stand out from the rest!
 
 *Best regards, Mohamad Haqnegahdar*
@@ -20,10 +20,10 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mhaqnegahdar/" target="blank" alt="Linkdin" >
-        <img height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+            <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
     </a> 
- <a href="mailto:mohamad.haqnegahdar@gmail.com" target="blank" alt="Gmail">
-        <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <a href="mailto:mhaqnegahdar@gmail.com" target="blank" alt="Gmail">
+            <img height="40" src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
 
@@ -31,7 +31,7 @@ Let's chat about how we can make your products stand out from the rest!
 <h3 align="left">My Theck Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,prisma,ts" /></br>
-    <img height="40" src="https://skillicons.dev/icons?i=redux,tailwind,sass,jest,git,docker" /></br>
+    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgres,prisma,ts" /></br>
+    <img height="40" src="https://skillicons.dev/icons?i=redux,tailwind,rabbitmq,sequelize,jest,git,docker" /></br>
   </a>
 </p>
